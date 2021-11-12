@@ -1,5 +1,5 @@
 # snake vs ghost c++ game
-Jul 2019 - Jul 2019
+<br/>
 it was my 1 day challenge to create a nice bug free game with good graphical user interface.
 it is a mix of pacman and snake game where snake is pacman and ghosts are food that moves.
 
